@@ -2,8 +2,7 @@
 
 This is a JavaScript-based application using the Day.js that allows a user to save hour-based events within working hours. 
 
-https://github.com/abzycake/abzys-calendar-js-app
-
+https://abzycake.github.io/abzys-calendar-js-app/
 ## How to Use
 
 1. Open `https://github.com/abzycake/abzys-calendar-js-app` in a web browser.
